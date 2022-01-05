@@ -1,0 +1,16 @@
+.customHeight{
+    height: 100vh;
+    background-color: #F2F2F2;
+}
+
+.border-grey{
+    border: 2px solid grey;
+    padding: 10vw;
+    border-radius:20px;
+    box-shadow: 1px 1px;
+    background-color: white;
+}
+
+.customizeForm{
+    width: 30vw;
+}
